@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rdleetcode-api/rdleetcodeapi.iml" filepath="$PROJECT_DIR$/rdleetcode-api/rdleetcodeapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rdleetcode-service/rdleetcodeservice.iml" filepath="$PROJECT_DIR$/rdleetcode-service/rdleetcodeservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rdleetcode-tool/rdleetcodetool.iml" filepath="$PROJECT_DIR$/rdleetcode-tool/rdleetcodetool.iml" />
+    </modules>
+  </component>
+</project>
