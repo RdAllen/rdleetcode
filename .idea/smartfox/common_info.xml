@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SmartFoxWorkToolsProjectState">
-    <option name="branch" value="master" />
+    <option name="branch" value="2020DsLd" />
     <option name="gitUrl" value="https://github.com/RdAllen/rdleetcode.git" />
-    <option name="localBranch" value="master" />
-    <option name="revision" value="9e2ead7c28cc38071406075171a68daa587f2cd2" />
+    <option name="localBranch" value="2020DsLd" />
+    <option name="revision" value="c6a7f8917cd6e5fc6188f32eb2a4225012556752" />
   </component>
 </project>
