@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d99f349-c84f-4f53-9ca6-52b3e5c7af13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/ds/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/leetcode/T07_ReverseInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/ds/linklist.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/ds/LinkList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="302">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/leetcode/T07_ReverseInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -93,10 +99,10 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/ds/Collection.java" />
-        <option value="$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/leetcode/T07_ReverseInteger.java" />
         <option value="$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/ds/D01_LinkList.java" />
         <option value="$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/ds/linklist.java" />
         <option value="$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/ds/LinkList.java" />
+        <option value="$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/leetcode/T07_ReverseInteger.java" />
       </list>
     </option>
   </component>
@@ -163,6 +169,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="rd" type="462c0819:PsiDirectoryNode" />
               <item name="ds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rdleetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rdleetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="rdleetcode-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rd" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rdleetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -263,18 +279,18 @@
       <updated>1583400308479</updated>
       <workItem from="1583400331423" duration="1778000" />
       <workItem from="1583550257971" duration="1000" />
-      <workItem from="1583652719263" duration="5729000" />
+      <workItem from="1583652719263" duration="5840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7508000" />
+    <option name="totallyTimeSpent" value="7619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49902153" visible="true" weight="0.23032904" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49902153" visible="true" weight="0.23032904" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -289,7 +305,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="TALA" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32939634" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32939634" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="智能研发" order="11" />
@@ -464,13 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/leetcode/T07_ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rdleetcode-api/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -487,8 +496,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/ds/LinkList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="302">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rdleetcode-service/src/main/java/com/rd/leetcode/T07_ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
